@@ -9,6 +9,7 @@ use Illuminate\Http\RedirectResponse;
 
 class StripePaymentController extends Controller
 {
+    
     /**
      * success response method.
      *
